@@ -1,6 +1,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/843016370677481502?showDisplayName=true&theme=light)](https://discord.com/users/843016370677481502)
 
-im just a skid
+Im just a skid
 
 
  # tech stack:
