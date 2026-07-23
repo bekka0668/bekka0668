@@ -1,4 +1,3 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/843016370677481502?showDisplayName=true&theme=light)](https://discord.com/users/843016370677481502)
 [![bekaa0668's Discord status](https://dsc-readme.tsuni.dev/api/user/843016370677481502?pronouns=he%2Fhim%2Fshe%2Fher&theme=catppuccinLatte&width=512&font=sakura&nameColor1=a78bfa)](https://github.com/the-snesler/discord-github-preview)
 
 Im just a skid
