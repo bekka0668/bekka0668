@@ -1,6 +1,7 @@
 [![bekaa0668's Discord status](https://dsc-readme.tsuni.dev/api/user/843016370677481502?pronouns=he%2Fhim&theme=catppuccinLatte&width=432&font=sakura&nameColor1=a78bfa)](https://github.com/the-snesler/discord-github-preview)
 
-Im just a skid [![](https://komarev.com/ghpvc/?username=bekka0668)](https://visitcount.itsvg.in)
+Im just a skid
+[![](https://komarev.com/ghpvc/?username=bekka0668)](https://visitcount.itsvg.in)
 
 
 # Tech Stack:
