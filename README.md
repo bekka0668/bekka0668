@@ -1,4 +1,4 @@
-![bekaa0668's Discord status](https://dsc-readme.tsuni.dev/api/user/843016370677481502?pronouns=he%2Fhim&theme=catppuccinLatte&width=432&font=sakura&nameColor1=a78bfa)
+[![bekaa0668's Discord status](https://dsc-readme.tsuni.dev/api/user/843016370677481502?pronouns=he%2Fhim&theme=catppuccinLatte&width=512&font=sakura&effect=gradient&nameColor1=a78bfa&nameColor2=FA9BCA)](https://github.com/the-snesler/discord-github-preview)
 
 Im just a skid
 
